@@ -93,7 +93,7 @@
 
 - 第1回 (2024/04/10) ガイダンス [第1回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/1_授業板書.pdf)
 - 第2回 (2024/04/17) [第2回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/2_授業板書.pdf)
-- 第3回 (2024/04/24) 
+- 第3回 (2024/04/24) [第3回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/3_授業板書.pdf)
 - 第4回 (2024/05/08) 
 - 第5回 (2024/05/15) 
 - 第6回 (2024/05/22) 
