@@ -107,7 +107,6 @@
 - 第13回 (2024/07/17) 演習
 - 第14回 (2024/07/24) 期末試験
 
-
 <!--
 - 第1回 (2023/10/05). [第1回授業板書](https://masataka123.github.io/2023_winter_linearalgebra/material/1_授業板書.pdf)
 - 第2回 (2023/10/12).  [第2回授業板書](https://masataka123.github.io/2023_winter_linearalgebra/material/2_授業板書.pdf)
