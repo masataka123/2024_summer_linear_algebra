@@ -97,7 +97,7 @@
 - 第4回 (2024/05/08) [第4回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/4_授業板書.pdf)
 - 第5回 (2024/05/15) [第5回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/5_授業板書.pdf)
 - 第6回 (2024/05/22) [第6回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/6_授業板書.pdf)
-- 第7回 (2024/05/29) 
+- 第7回 (2024/05/29) [第7回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/7_授業板書.pdf)
 - 第8回 (2024/06/05) 演習
 - 第9回 (2024/06/12) 
 - 第10回 (2024/06/19) 
