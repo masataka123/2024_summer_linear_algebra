@@ -101,11 +101,11 @@
 - 第8回 (2024/06/05) 演習 [第1回演習問題](https://masataka123.github.io/2024_summer_linear_algebra/material/0_演習問題線形代数_1_20240605.pdf) [第1回演習解答](https://masataka123.github.io/2024_summer_linear_algebra/material/0_演習問題線形代数_1_20240605_解答.pdf)
 - 第9回 (2024/06/12) [第8回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/8_授業板書.pdf)
 - 第10回 (2024/06/19) [第9回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/9_授業板書.pdf)
-- 第11回 (2024/06/26) 
-- 第12回 (2024/07/03) 
+- 第11回 (2024/06/26)  [第10回授業板書](https://masataka123.github.io/2024_summer_linear_algebra/material/10_授業板書.pdf)
+-  (2024/07/03) 休講
 -  (2024/07/10) 休講
-- 第13回 (2024/07/17) 演習
-- 第14回 (2024/07/24) 期末試験
+- 第12回 (2024/07/17) 演習
+- (2024/07/24) 期末試験
 
 <!--
 - 第1回 (2023/10/05). [第1回授業板書](https://masataka123.github.io/2023_winter_linearalgebra/material/1_授業板書.pdf)
